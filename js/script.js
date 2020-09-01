@@ -55,7 +55,7 @@ function myFunction(list) {
   }
 }
 
-//myFunction(cats);
+myFunction(cats);
 
 //Question 8
 
